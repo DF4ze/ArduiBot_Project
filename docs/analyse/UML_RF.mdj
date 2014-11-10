@@ -2542,7 +2542,7 @@
 									"width": 270,
 									"height": 40,
 									"autoResize": false,
-									"text": "Si pas de récecption de trame pendant Xs :\n- bascule en déconnecté"
+									"text": "Si pas de réception de trame pendant Xs :\n- bascule en déconnecté"
 								},
 								{
 									"_type": "UMLNoteView",
